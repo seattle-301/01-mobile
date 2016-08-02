@@ -47,7 +47,7 @@ Find those `TODO` items in the code, and tackle one of them.
 1. Type `git status` to ensure there is nothing left to commit.
 1. Type `git push origin your-name-partner-name` to push this branch to your forked repo on GitHub.
 2. On GitHub, Add your navigator as a collaborator (go to settings -> collaborators).
-3. Once they have been added, `Slack` to your partner your forked repo link for them to clone down.
+3. While they accept being added (check your email!), `Slack` to your partner your forked repo link for them to clone down.
 
 ## Switch roles
 
